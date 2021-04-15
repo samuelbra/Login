@@ -1,0 +1,41 @@
+body {
+    background-color: blue;
+}
+
+input {
+    background-color: #efefef;
+    padding: 10px 15px 10px 15px;
+    border: none;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: blue;
+    padding: 10px 15px 10px 15px;
+    border: none;
+    color: white;
+    width: 100%;
+
+
+}
+
+form {
+    background-color: white;
+    padding: 40px;
+    width: 35%;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.4);
+}
+h1{
+    text-align: center;
+    margin-top: 70px;
+    color: white;
+}
+p{
+    color: gray;
+    text-align: center;
+    margin-bottom: 0px;
+}
